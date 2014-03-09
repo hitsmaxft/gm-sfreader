@@ -14,7 +14,7 @@
 // @grant GM_registerMenuCommand
 // @grant unsafeWindow
 //
-// @require http://sizzlemctwizzle.com/130400js?show
+// @norequire http://sizzlemctwizzle.com/130400js?show
 // ==/UserScript==
 
 var debug_mode = false;
