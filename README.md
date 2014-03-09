@@ -1,4 +1,6 @@
 GM-SFReader
 ===========
 
-Userscript for comic.sfacg.com
+greasemonkey script for comic.sfacg.com
+
+[hosted on userscript](http://userscripts.org/scripts/show/130400) 
