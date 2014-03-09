@@ -4,7 +4,7 @@
 // @author      hitsmaxft <mfthits#gmail.com>
 // @description Better SF reader UI
 // @include     http://comic.sfacg.com/*
-// @version     1.0
+// @version     3.0
 // @require http://code.jquery.com/jquery-1.11.0.min.js
 
 // @grant GM_info
