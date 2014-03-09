@@ -14,7 +14,7 @@
 // @grant GM_registerMenuCommand
 // @grant unsafeWindow
 
-// @norequire http://sizzlemctwizzle.com/130289.js?show
+// @require http://sizzlemctwizzle.com/130400.js?show
 // ==/UserScript==
 
 this.$ = this.jQuery = jQuery.noConflict(true)
